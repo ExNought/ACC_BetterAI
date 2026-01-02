@@ -1,0 +1,2 @@
+  -> Path:   system\opponents.table
+  -> Path:   system\saveddrivers
